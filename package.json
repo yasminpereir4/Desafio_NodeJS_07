@@ -1,0 +1,16 @@
+{
+  "name": "qodeless.nodejs.framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@ssh.dev.azure.com:v3/Lab21/Arquitetura/qodeless.nodejs.framework"
+  },
+  "keywords": [],
+  "author": "Qodeless Dream Team",
+  "license": "ISC"
+}
